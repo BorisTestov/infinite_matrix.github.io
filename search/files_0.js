@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['main_2ecpp',['main.cpp',['../main_8cpp.html',1,'']]]
+  ['infinite_5fmatrix_2eh',['infinite_matrix.h',['../infinite__matrix_8h.html',1,'']]]
 ];
